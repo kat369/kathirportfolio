@@ -9,10 +9,13 @@ function About() {
                     <img src="assets/imgs/avatar.jpg" alt="" class="img-thumbnail mb-4"/>
                 </div>
                 <div class="pl-md-4 col-md-9">
-                    <h6 class="title">James Smith</h6>
-                    <p class="subtitle">UI/UX Designer</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, pariatur, aperiam aut autem voluptas odit. Odio ducimus delectus totam sed aliquam sequi praesentium mollitia, illum repudiandae quidem quod, magni magnam.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, eius, nam. Quo praesentium qui temporibus voluptatum, facilis aliquid eligendi fugiat beatae neque inventore non. Laborum repellendus consequatur ullam voluptatum asperiores.</p>
+                    <h6 class="title">Kathiravan Arjunan</h6>
+                    <p class="subtitle">Full Stack Web Developer (MERN)</p>
+                    <p>I am a highly motivated and enthusiastic individual with a strong passion for creating visually 
+appealing and user-friendly websites. I possess a solid foundation in HTML, CSS, and 
+JavaScript, along with a good understanding of modern frameworks such as ReactJS, NodeJS, 
+MongoDB, ExpressJS</p>
+                    {/* <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, eius, nam. Quo praesentium qui temporibus voluptatum, facilis aliquid eligendi fugiat beatae neque inventore non. Laborum repellendus consequatur ullam voluptatum asperiores.</p> */}
                     <button class="btn btn-primary rounded mt-3">DOWNLOAD CV</button>                   
                 </div>
             </div>

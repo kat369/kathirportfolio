@@ -29,21 +29,21 @@ function Contact() {
                   <i class="ti-location-pin"></i>
                   <div class="">
                       <h5>Location</h5>
-                      <p> 12345 Fake ST NoWhere AB Country</p>
+                      <p> Bengaluru ,India</p>
                   </div>                          
               </div>
               <div class="item">
                   <i class="ti-mobile"></i>
                   <div>
                       <h5>Phone Number</h5>
-                      <p>(123) 456-7890</p>
+                      <p>(+91) 9095043789</p>
                   </div>                          
               </div>
               <div class="item">
                   <i class="ti-email"></i>
                   <div class="mb-0">
                       <h5>Email Address</h5>
-                      <p>info@website.com</p>
+                      <p>kathiravanarjunan369@gmail.com</p>
                   </div>
               </div>
           </div>                  
