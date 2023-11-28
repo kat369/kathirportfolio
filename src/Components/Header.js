@@ -5,7 +5,7 @@ function Header() {
    <header class="header" id="home">
         <div class="container">
             <div class="infos">
-                <h6 class="subtitle">hello, I'm</h6>
+                <h6 class="subtitle">Hello, I'm</h6>
                 <h6 class="title">Kathiravan Arjunan</h6>
                 <p>Full Stack Web Developer (MERN)</p>
 
